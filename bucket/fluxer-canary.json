@@ -1,10 +1,10 @@
 {
-    "version": "2026.1114.33319",
+    "version": "2026.1114.60146",
     "description": "Fluxer Canary",
     "homepage": "https://fluxer.app",
     "license": "AGPLv3",
-    "url": "https://pkgs.fluxer.com/desktop/canary/win32/x64/2026.1114.33319/portable#/Fluxer-Canary-2026.1114.33319-portable-win-x64.zip",
-    "hash": "174734c4c1553c0ee1f98f608e0029522ca098bbc13349853c7a6af2d2dae57b",
+    "url": "https://pkgs.fluxer.com/desktop/canary/win32/x64/2026.1114.60146/portable#/Fluxer-Canary-2026.1114.60146-portable-win-x64.zip",
+    "hash": "74efa252121a2ef048183d06eeba9d7c92bed097a9e875d3e6d3569d74a4877e",
     "bin": "Fluxer Canary.exe",
     "shortcuts": [
         [
